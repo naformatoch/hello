@@ -1,3 +1,4 @@
-class {}
-
-sdfd
+class A 
+{
+	
+}

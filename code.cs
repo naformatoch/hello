@@ -1,4 +1,1 @@
-class A 
-{
-	333sadf
-}
+dfasfasdf

@@ -1,1 +1,1 @@
-RESOLVED
+RES
